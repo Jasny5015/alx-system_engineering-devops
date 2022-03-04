@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff _hello chars long text i really don
+chown vincent:staff *
